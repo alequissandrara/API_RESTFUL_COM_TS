@@ -1,0 +1,9 @@
+2024-09-16 21:40:24:4024 - [32minfo[39m : [32mAplicação está funcionando na porta: 3000[39m 
+2024-09-16 21:42:22:4222 - [32minfo[39m : [32mConectou com o banco de dados![39m 
+2024-09-16 21:42:23:4223 - [32minfo[39m : [32mAplicação está funcionando na porta: 3000[39m 
+2024-09-16 21:42:39:4239 - [32minfo[39m : [32mConectou com o banco de dados![39m 
+2024-09-16 21:42:39:4239 - [31merror[39m : [31mNão foi possível conectar![39m 
+2024-09-16 21:42:39:4239 - [31merror[39m : [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluste0.nhebn.mongodb.net[39m 
+2024-09-16 21:42:39:4239 - [32minfo[39m : [32mAplicação está funcionando na porta: 3000[39m 
+2024-09-16 21:42:44:4244 - [32minfo[39m : [32mConectou com o banco de dados![39m 
+2024-09-16 21:42:45:4245 - [32minfo[39m : [32mAplicação está funcionando na porta: 3000[39m 
