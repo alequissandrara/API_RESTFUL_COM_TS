@@ -15,6 +15,10 @@ import db from "../config/db";
 //Routes
 import router from "./router";
 
+// middlewares
+import morganMiddleware from "./middleware/morganMiddleware";
+
+app.use(morganMiddleware);
 app.use("/api/", router);
 
 //app port
